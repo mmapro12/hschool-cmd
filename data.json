@@ -1,0 +1,39 @@
+{
+  "students": {
+    "Ali": {
+      "name": "Ali",
+      "surname": "Bott",
+      "birth_year": 2000,
+      "password": "mal",
+      "grade": 9,
+      "clas": "C",
+      "clas_num": 67,
+      "scores": {
+        "English": 0.0,
+        "Physics": 0.0
+      }
+    }
+  },
+  "teachers": {},
+  "curriculums": {
+    "9": {
+      "English": 0.0,
+      "Physics": 0.0
+    },
+    "10": {
+      "English": 0.0,
+      "Physics": 0.0,
+      "Python": 0.0
+    },
+    "11": {
+      "English": 0.0,
+      "Physics": 0.0,
+      "Python": 0.0
+    },
+    "12": {
+      "c:": 0.0,
+      "c++": 0.0,
+      "asm": 0.0
+    }
+  }
+}
